@@ -1,0 +1,453 @@
+[
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support01",
+    "LongName": "PID 01 Supported?",
+    "StartBit": 7,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support02",
+    "LongName": "PID 02 Supported?",
+    "StartBit": 6,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support03",
+    "LongName": "PID 03 Supported?",
+    "StartBit": 5,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support04",
+    "LongName": "PID 04 Supported?",
+    "StartBit": 4,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support05",
+    "LongName": "PID 05 Supported?",
+    "StartBit": 3,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support06",
+    "LongName": "PID 06 Supported?",
+    "StartBit": 2,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support07",
+    "LongName": "PID 07 Supported?",
+    "StartBit": 1,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support08",
+    "LongName": "PID 08 Supported?",
+    "StartBit": 0,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support09",
+    "LongName": "PID 09 Supported?",
+    "StartBit": 15,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support0A",
+    "LongName": "PID 0A Supported?",
+    "StartBit": 14,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support0B",
+    "LongName": "PID 0B Supported?",
+    "StartBit": 13,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support0C",
+    "LongName": "PID 0C Supported?",
+    "StartBit": 12,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support0D",
+    "LongName": "PID 0D Supported?",
+    "StartBit": 11,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support0E",
+    "LongName": "PID 0E Supported?",
+    "StartBit": 10,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support0F",
+    "LongName": "PID 0F Supported?",
+    "StartBit": 9,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support10",
+    "LongName": "PID 10 Supported?",
+    "StartBit": 8,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support11",
+    "LongName": "PID 11 Supported?",
+    "StartBit": 23,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support12",
+    "LongName": "PID 12 Supported?",
+    "StartBit": 22,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support13",
+    "LongName": "PID 13 Supported?",
+    "StartBit": 21,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support14",
+    "LongName": "PID 14 Supported?",
+    "StartBit": 20,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support15",
+    "LongName": "PID 15 Supported?",
+    "StartBit": 19,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support16",
+    "LongName": "PID 16 Supported?",
+    "StartBit": 18,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support17",
+    "LongName": "PID 17 Supported?",
+    "StartBit": 17,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support18",
+    "LongName": "PID 18 Supported?",
+    "StartBit": 16,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support19",
+    "LongName": "PID 19 Supported?",
+    "StartBit": 31,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support1A",
+    "LongName": "PID 1A Supported?",
+    "StartBit": 30,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support1B",
+    "LongName": "PID 1B Supported?",
+    "StartBit": 29,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support1C",
+    "LongName": "PID 1C Supported?",
+    "StartBit": 28,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support1D",
+    "LongName": "PID 1D Supported?",
+    "StartBit": 27,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support1E",
+    "LongName": "PID 1E Supported?",
+    "StartBit": 26,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support1F",
+    "LongName": "PID 1F Supported?",
+    "StartBit": 25,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "00"
+    },
+    "ShortName": "Support20",
+    "LongName": "PID 20 Supported?",
+    "StartBit": 24,
+    "BitLength": 1
+  },
+
+
+
+  {
+    "$type": "Valvoline.Odb.Parser.BoolSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "01"
+    },
+    "ShortName": "IsCheckEngineOn",
+    "LongName": "Check Engine Light On?",
+    "StartBit": 7,
+    "BitLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "01"
+    },
+    "ShortName": "TroubleCodeCount",
+    "LongName": "Number of Trouble Codes",
+    "StartBit": 0,
+    "BitLength": 7
+  },
+
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "0C"
+    },
+    "ShortName": "EngineSpeed",
+    "LongName": "Engine Speed",
+    "StartByte": 1,
+    "ByteLength": 2,
+    "Scale": 0.25,
+    "Min": 0,
+    "Max": 16383.75,
+    "Units": "RPM"
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "01",
+      "Pid": "0D"
+    },
+    "ShortName": "VehicleSpeed",
+    "LongName": "Vehicle Speed",
+    "StartByte": 0,
+    "ByteLength": 1,
+    "Min": 0,
+    "Max": 255,
+    "Units": "km/h"
+  },
+
+
+
+
+
+
+]
+
+

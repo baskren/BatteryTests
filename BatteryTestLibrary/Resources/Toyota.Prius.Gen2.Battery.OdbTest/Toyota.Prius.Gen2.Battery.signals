@@ -1,0 +1,528 @@
+[
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "Charge",
+    "LongName": "HV Battery State of Charge",
+    "StartByte": 0,
+    "ByteLength": 1,
+    "Scale": 0.5,
+    "Min": 40,
+    "Max": 80,
+    "Units": "%"
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "B",
+    "StartByte": 1,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "C",
+    "StartByte": 2,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "D",
+    "StartByte": 3,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "E",
+    "StartByte": 4,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "F",
+    "StartByte": 5,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "G",
+    "StartByte": 6,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "H",
+    "StartByte": 7,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "I",
+    "StartByte": 8,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "J",
+    "StartByte": 9,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "K",
+    "StartByte": 10,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "L",
+    "StartByte": 11,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "M",
+    "StartByte": 12,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "N",
+    "StartByte": 13,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "O",
+    "StartByte": 14,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "P",
+    "StartByte": 15,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "Q",
+    "StartByte": 16,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "R",
+    "StartByte": 17,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "S",
+    "StartByte": 18,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "T",
+    "StartByte": 19,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "U",
+    "StartByte": 20,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "V",
+    "StartByte": 21,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "W",
+    "StartByte": 22,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "X",
+    "StartByte": 23,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "Y",
+    "StartByte": 24,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "Z",
+    "StartByte": 25,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "AA",
+    "StartByte": 26,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "AB",
+    "StartByte": 27,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "AC",
+    "StartByte": 28,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "AD",
+    "StartByte": 29,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CE"
+    },
+    "ShortName": "AE",
+    "StartByte": 30,
+    "ByteLength": 1
+  },
+
+
+
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "A",
+    "StartByte": 0,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "B",
+    "StartByte": 1,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "C",
+    "StartByte": 2,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "D",
+    "StartByte": 3,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "E",
+    "StartByte": 4,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "F",
+    "StartByte": 5,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "G",
+    "StartByte": 6,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "H",
+    "StartByte": 7,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "I",
+    "StartByte": 8,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "J",
+    "StartByte": 9,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "K",
+    "StartByte": 10,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "L",
+    "StartByte": 11,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "M",
+    "StartByte": 12,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "N",
+    "StartByte": 13,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "O",
+    "StartByte": 14,
+    "ByteLength": 1
+  },
+  {
+    "$type": "Valvoline.Odb.Parser.NumberSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7EB",
+      "Mode": "21",
+      "Pid": "CF"
+    },
+    "ShortName": "P",
+    "StartByte": 15,
+    "ByteLength": 1
+  }
+
+]

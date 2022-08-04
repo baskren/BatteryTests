@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Toyota Pruis 3rd Gen Battery Test",
+  "Description": "Test of 3rd gen Prius battery",
+  "Sampler": {
+    "$type": "Valvoline.Odb.Tester.PeriodicSampler,Valvoline.Odb.Tester",
+    "Period": 500,
+    "Duration": 3000
+  },
+  "Requests": [ "7E2 01 0D", "7E2 01 5B", "7E2 21 81", "7E2 21 98" ],
+
+}

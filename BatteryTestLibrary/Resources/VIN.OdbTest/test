@@ -1,0 +1,9 @@
+{
+  "Name": "OBD VIN TEST",
+  "Description": "Single Sample of Vehicle's VIN",
+  "Sampler": {
+    "$type": "Valvoline.Odb.Tester.SingleSampler,Valvoline.Odb.Tester"
+  },
+  "Requests": [ "09 02" ],
+
+}

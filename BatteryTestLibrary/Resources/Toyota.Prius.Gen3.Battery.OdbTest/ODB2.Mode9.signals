@@ -1,0 +1,13 @@
+[
+  {
+    "$type": "Valvoline.Odb.Parser.StringSignal, Valvoline.Odb.Parser",
+    "MessageId": {
+      "CanId": "7E0",
+      "Mode": "09",
+      "Pid": "02"
+    },
+    "ShortName": "VIN",
+    "StartByte": 1,
+    "ByteLength": 17
+  }
+]

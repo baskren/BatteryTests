@@ -1,0 +1,11 @@
+﻿{
+  "Name": "SPEED AND RPM TEST",
+  "Description": "Periodic Sampling of Vehicle's Speed and RPM",
+  "Sampler": {
+    "$type": "Valvoline.Odb.Tester.PeriodicSampler,Valvoline.Odb.Tester",
+    "Period": 100,
+    "Duration": 10000
+  },
+  "Requests": [ "01 0D", "01 0C" ],
+
+}
